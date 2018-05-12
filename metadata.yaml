@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37509'
     url: http://www.gutenberg.org/2009/agents/37509
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35167#Philological-Proofs-of-the-Original-Unity-and-Recent-Origin-of-the-Human-Race
 gutenberg_issued: '2011-02-04'
 gutenberg_type: Text
 identifiers:
