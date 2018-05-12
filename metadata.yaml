@@ -1,0 +1,30 @@
+_repo: Philological-Proofs-of-the-Original-Unity-and-Recent-Origin-of-the-Human-Race_35167
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnes, Arthur James
+    birthdate: 1809
+    deathdate: 1871
+    gutenberg_agent_id: '37509'
+    url: http://www.gutenberg.org/2009/agents/37509
+description: ''
+gutenberg_issued: '2011-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35167'
+  lccn: '17017927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monogenism and polygenism'
+- !lcsh 'Ethnology'
+- !lcc 'P'
+- !lcsh 'Human beings -- Origin'
+- !lcsh 'Language and languages'
+title: Philological Proofs of the Original Unity and Recent Origin of the Human Race
+url: http://www.gutenberg.org/ebooks/35167
